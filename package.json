@@ -1,0 +1,17 @@
+{
+  "name": "music",
+  "version": "1.0.0",
+  "description": "Music bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "PokemonLeader#8651",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^0.24.0"
+  }
+}
